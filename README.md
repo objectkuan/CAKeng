@@ -1,4 +1,4 @@
-# Some 坑s I know when come to California for the first time.
+# Some 坑s when come to California for the first time.
 
 - 出入境相关：
   - 用手机给护照的主页、签证页拍好照，如果护照丢失能够起到一定的帮助作用。
