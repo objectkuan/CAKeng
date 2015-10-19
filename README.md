@@ -1,4 +1,6 @@
-# Some 坑s when come to California for the first time.
+# The California Grind
+
+## 从中国到美帝 ##
 
 - 出入境相关：
   - 用手机给护照的主页、签证页拍好照，如果护照丢失能够起到一定的帮助作用。
@@ -36,3 +38,7 @@
   - 美国三大危险因素：夜晚，downtown（黑大哥多），步行。
   - 中国驾照 + 护照可以租车，不租车需要各种打Uber（美帝的公共交通几乎是废的）。
   - 天气非常干，目前是2015/10/12，昼夜温差有点大。
+
+## 到了美帝 ##
+
+- To be continued...
